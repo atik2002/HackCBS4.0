@@ -21,7 +21,7 @@ all_options = {
 }
 
 app.layout = dbc.Container([
-    dbc.Button("Home", outline=True, color="primary", className="me-1", size='lg',href="https://atik2002.github.io/Hackathon-UMBC/"),
+    dbc.Button("Home", outline=True, color="primary", className="me-1", size='lg',href="https://atik2002.github.io/HackCBS4.0/"),
 
     dbc.Row([
         dbc.Col(html.H1("Data Dashboard", className='text-center text-success ', style={'textDecoration':'underline'}))
